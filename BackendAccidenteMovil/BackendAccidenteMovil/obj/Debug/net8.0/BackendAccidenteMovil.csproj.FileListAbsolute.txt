@@ -1,0 +1,14 @@
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\bin\Debug\net8.0\BackendAccidenteMovil.exe
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\bin\Debug\net8.0\BackendAccidenteMovil.deps.json
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\bin\Debug\net8.0\BackendAccidenteMovil.runtimeconfig.json
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\bin\Debug\net8.0\BackendAccidenteMovil.dll
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\bin\Debug\net8.0\BackendAccidenteMovil.pdb
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\obj\Debug\net8.0\BackendAccidenteMovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\obj\Debug\net8.0\BackendAccidenteMovil.AssemblyInfoInputs.cache
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\obj\Debug\net8.0\BackendAccidenteMovil.AssemblyInfo.cs
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\obj\Debug\net8.0\BackendAccidenteMovil.csproj.CoreCompileInputs.cache
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\obj\Debug\net8.0\BackendAccidenteMovil.dll
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\obj\Debug\net8.0\refint\BackendAccidenteMovil.dll
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\obj\Debug\net8.0\BackendAccidenteMovil.pdb
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\obj\Debug\net8.0\BackendAccidenteMovil.genruntimeconfig.cache
+C:\Users\BrianRestrepo\Downloads\Brian\Octavo\Proyecto\Accidentes\BackendAccidenteMovil\BackendAccidenteMovil\obj\Debug\net8.0\ref\BackendAccidenteMovil.dll
